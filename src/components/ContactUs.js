@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-// import resumeData from '../resumeData';
 export default class ContactUs extends Component {
   render() {
     let resumeData = this.props.resumeData;

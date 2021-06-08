@@ -31,7 +31,7 @@ let resumeData = {
         "specialization":"Computer Science and Engineering",
         "MonthOfPassing":"July",
         "YearOfPassing":"2023",
-        "Achievements":"HAB59 2020 2nd position winner with team sudo-s and hashinclude app"
+        "Achievements":"HAB59 2020 2nd position winner with team sudo-s and project hashinclude mobile app and Innovathon 2K21 2nd position winner with team Team-Zee and project G-Quiz app"
       },
       {
         "UniversityName":"D.A.V Public school Bilaspur,C.G.",
@@ -41,9 +41,9 @@ let resumeData = {
         "Achievements":"Python3 Programming"
       }
     ],
-    // "certificates":[
-    //   {"Certificates":"portfolio/React-Portfolio-master/src/components/CERTIFICATES BAMMIDI PRAGATI RAO.pdf"}
-    // ],
+    "hackathons":[
+      {"name":"HAB59 National Hackathon 2019 (2nd position winner)"},{"name":"Innovathon 2K21 Hackathon by SSCE bangalore (2nd position winner)"},{"name":"Hackon 2.0 2021 by Devfolio "}
+    ],
     // ],
     // "work":[
     //   {

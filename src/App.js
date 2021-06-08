@@ -7,16 +7,7 @@ import Testimonials from  './components/Testimonials';
 import ContactUs from './components/ContactUs';
 import Footer from './components/Footer';
 import resumeData from './resumeData';
-// import Gallery from '.portfolio/my-react-gallery';
-// import { HeroImage } from "./components/HeroImage";
-// import { Gallery } from "./components/Gallery";
 class App extends Component {
-  // constructor() {
-  //   super();
-  //   this.state = {
-  //     name: 'React'
-  //   };
-  // }
   render() {
     return (
       <div className="App">
@@ -27,9 +18,6 @@ class App extends Component {
         <Testimonials resumeData={resumeData}/>
         <ContactUs resumeData={resumeData}/>
         <Footer resumeData={resumeData}/>
-        {/* <a href={Gallery}>click</a> */}
-        {/* <HeroImage />
-        <Gallery /> */}
       </div>
     );
   }
