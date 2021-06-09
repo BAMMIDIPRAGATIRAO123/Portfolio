@@ -8,6 +8,26 @@
     <p>I'm self taught full stack web developer persuing B.E. degree from Sri Sairam College of Engineering Bangalore. I like web development and currently diving deep into it. I'm also interested in learning more and programming languages. My current skills include HTML/CSS, Javascript, React-js, Python, Sql and C.</p>
 </div>
 
+### Projects
+
+1. HashInclude(#Include)
+2. Compile-Anywhere
+3. Compile-Companion
+4. G-Quiz-Mobile
+5. G-Quiz-Web
+6. K-10 Restaurant
+
+### Hackathons Participated
+
+HAB59 National Hackathon 2019 (2nd position winner with team sudo-s and project #Include)
+Innovathon 2K21 Hackathon by SSCE (2nd position winner with Team-Zee and project G-Quiz)
+Hack-On 2.0 2020 National Hackathon through Devfolio
+
+### Project Gallery
+
+Visit the visual project gallery for demo videos on all the listed projects...
+[**VISIT PROJECT GALLERY**](https://visual-gallery.herokuapp.com/ "Project-Gallery")
+
 ### Contact
    - Name: Bammidi Pragati Rao
    - Location: Bangalore,Karnataka(India)
