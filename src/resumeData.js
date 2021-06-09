@@ -24,7 +24,6 @@ let resumeData = {
     "aboutme":"I am currently a 2nd year student at Sri Sairam College of Engineering Bangalore and pursuing my B.E. from here. I am a self taught Full Stack Web Developer, currently diving deeper into it. I believe that to be successful in life, one needs to be obsessive with their dreams and keep working towards them.",
     "address":"Bangalore India ",
     "website":"6261267978",
-    // "website":"https://rbhatia46.github.io",
     "education":[
       {
         "UniversityName":"Sri Sairam College of Engineering Bangalore",
@@ -44,23 +43,6 @@ let resumeData = {
     "hackathons":[
       {"name":"HAB59 National Hackathon 2019 (2nd position winner)"},{"name":"Innovathon 2K21 Hackathon by SSCE bangalore (2nd position winner)"},{"name":"Hackon 2.0 2021 by Devfolio "}
     ],
-    // ],
-    // "work":[
-    //   {
-    //     "CompanyName":"Some Company",
-    //     "specialization":"Some specialization",
-    //     "MonthOfLeaving":"Jan",
-    //     "YearOfLeaving":"2018",
-    //     "Achievements":"Some Achievements"
-    //   },
-    //   {
-    //     "CompanyName":"Some Company",
-    //     "specialization":"Some specialization",
-    //     "MonthOfLeaving":"Jan",
-    //     "YearOfLeaving":"2018",
-    //     "Achievements":"Some Achievements"
-    //   }
-    // ],
     "skillsDescription":"Here are some of my skills and im trying to learn something new everyday.",
     "skills":[
       {
@@ -103,13 +85,12 @@ let resumeData = {
     ],
     "testimonials":[
       {
-        // "description":"This is a sample testimonial",
         "description":"WEB DEVELOPMENT",
         "name":"HTML,CSS,REACTJS"
       },
       {
         "description":"PROGRAMMING",
-        "name":"PYTHON,C,JAVA"
+        "name":"PYTHON,C,JAVASCRIPT"
       }
     ]
   }

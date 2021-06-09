@@ -110,9 +110,9 @@ export default  class Resume extends Component {
 
             <div className="nine columns main-col">
               <h3>Visit Project-Gallery for project demo videos...</h3>
-              <button className="my-projects">
-                HERE!!!
-              </button>
+              <h4 className="my-projects">
+                <a href="https://visual-gallery.herokuapp.com/"> CLICK HERE!!!</a>
+              </h4>
             </div> 
          </div>
          
