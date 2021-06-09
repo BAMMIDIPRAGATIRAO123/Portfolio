@@ -19,9 +19,11 @@
 
 ### Hackathons Participated
 
-HAB59 National Hackathon 2019 (2nd position winner with team sudo-s and project #Include)
-Innovathon 2K21 Hackathon by SSCE (2nd position winner with Team-Zee and project G-Quiz)
-Hack-On 2.0 2020 National Hackathon through Devfolio
+<ul>
+    <li>HAB59 National Hackathon 2019 (2nd position winner with team sudo-s and project #Include)</li>
+    <li>Innovathon 2K21 Hackathon by SSCE (2nd position winner with Team-Zee and project G-Quiz)</li>
+    <li>Hack-On 2.0 2020 National Hackathon through Devfolio</li>
+</ul>
 
 ### Project Gallery
 
